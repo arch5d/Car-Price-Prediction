@@ -51,7 +51,7 @@ Jupyter notebook or script
 
 ---
 
-## Output
+## 🎯 Output
 
 ![WhatsApp Image 2025-07-11 at 00 16 14_019ce1e9](https://github.com/user-attachments/assets/8dd56cae-18e1-41cf-a0b9-9687ad1fd0ef)
 
@@ -81,7 +81,7 @@ Jupyter notebook or script
 ## 📜 License
 This project is licensed under the MIT License.
 
-## Author
+## 👤 Author
 
 *Made by @arch5d*
 
